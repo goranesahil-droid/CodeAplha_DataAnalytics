@@ -1,3 +1,3 @@
 # Web Scraping Project
 
-Book Store Web Scraping using BeautifulSoup.
+Wikipedia Web Scraping using BeautifulSoup.
